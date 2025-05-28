@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**👋 Hi, I’m Lucia Lin**
+**👋 Hello there, I’m Lucia !**
 
-📚I've been working as a Discovery and Metadata Librarian at a university in Sydney for over 10 years
+📚I'm a Discovery and Metadata Librarian working at a university in Sydney for over 10 years
 
-📊I'm also a Master of Commerce graduate at the University of Sydney (USYD), majoring in data analytics and information systems
+📊Also a Master of Commerce graduate at the University of Sydney (USYD), majoring in data analytics and information systems. 
 
 
 ======
