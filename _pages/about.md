@@ -10,7 +10,7 @@ redirect_from:
 
 📚I've been working as a Discovery and Metadata Librarian at a university in Sydney for over 10 years
 
-📊I'm a Master of Commerce graduate at the University of Sydney (USYD), majoring in data analytics and information systems
+📊I'm also a Master of Commerce graduate at the University of Sydney (USYD), majoring in data analytics and information systems
 
 
 ======
