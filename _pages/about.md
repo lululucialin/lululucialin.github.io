@@ -21,7 +21,7 @@ From Libraries to Data
 
 While my current title isn’t “data analyst,” I see myself as one. I regularly apply what I’ve learned to my work, using data to solve problems, improve processes, and make decisions. Check out some of the library projects I’ve worked on !
 
-I’ve also taken on several data projects in my spare time. Feel free to connect with me on LinkedIn if you’d like to collaborate
+I’ve also taken on several data projects in my spare time. Feel free to connect with me on LinkedIn if you’d like to collaborate.
 
 **Markdown generator**
 
