@@ -17,11 +17,11 @@ About my work
 
 From Libraries to Data
 ------
-**Data Analytics is a perfect fit for my technical and visual brain.** I enjoyed art when I was younger and ended up studying Communication and started my career in an academic library. I grew interested in the technical stuff and self-taught myself how to code. Eventually, I enrolled in an MS in Data Analytics in 2018, and it was the best decision I made.
+I’ve always had a visual and analytical mind. My journey began with a love for art, which led me to study Communication and work in an academic library. Over time, I became increasingly drawn to the technical side of things and taught myself to code — eventually completing a Master’s in Data Analytics in 2018.
 
-While my current title isn’t “data analyst,” I see myself as one. I regularly apply what I’ve learned to my work, using data to solve problems, improve processes, and make decisions. Check out some of the library projects I’ve worked on !
+I approach project with a data-driven, analytical mindset — whether it’s solving problems, streamlining workflows, or supporting smarter decision-making, both in my day job and through independent projects.
 
-I’ve also taken on several data projects in my spare time. Feel free to connect with me on LinkedIn if you’d like to collaborate.
+Take a look at some of the library project and personal data portfolios. If you’re interested in collaborating, feel free to reach out via LinkedIn.
 
 **Markdown generator**
 
