@@ -17,7 +17,7 @@ About my work
 
 From Libraries to Data
 ------
-My journey began as a casual shelver at my local public library, which sparked my interest in the field and led me to pursue a career in academic libraries. Over time, I became increasingly drawn to the technical side and taught myself how to code. With a naturally visual and analytical mind, data analytics felt like the perfect fit — so I completed a Master’s in Data Analytics in 2018 while working full time.
+My journey began as a casual shelver at my local public library, which sparked my interest in the field and led me to pursue a career in academic libraries. Over time, I became increasingly drawn to the technical side and taught myself how to code. With a naturally visual and analytical mind, data analytics felt like the perfect fit — so I completed a Master in Data Analytics in 2018 while working full time.
 
 I approach every project with a data-driven, analytical mindset — whether it’s solving problems, streamlining workflows, or supporting smarter decision-making, both in my day job and through independent projects.
 
