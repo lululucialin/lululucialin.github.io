@@ -14,7 +14,7 @@ Education
 * M.S. in Commerce (Data Analytics & Business Information System), University of Sydney, 2022
 * B.A. in Communication (Information & Media), University of Technology Sydney, 2015
 
-Project experience
+M.S. Project experience
 ======
 * **Business Intelligence and Data Visualisation** 
   * BI dashboards using CITES datasets to support decision-making for three key personas involved in monitoring and managing global wildlife trade
@@ -56,11 +56,11 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Publications
+#======
+#  <ul>{% for post in site.publications reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
 Talks
 ======
