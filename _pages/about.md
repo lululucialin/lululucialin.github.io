@@ -21,7 +21,4 @@ My journey began as a casual shelver at my local public library, which sparked m
 
 I approach every project with a data-driven, analytical mindset — whether it’s solving problems, streamlining workflows, or supporting smarter decision-making, both in my day job and through independent projects.
 
-Take a look at some of the library projects and personal data portfolios I’ve worked on. If you’re interested in collaborating, feel free to connect with me on LinkedIn!
-
-Outside of work, you’ll often find me dancing 💃 or drawing 🎨.
-
+Take a look at some of the library projects and personal data portfolios I’ve worked on. If you’re interested, feel free to connect with me on LinkedIn. 
